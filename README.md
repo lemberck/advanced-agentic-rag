@@ -11,12 +11,13 @@ This system provides an intelligent documentation assistant for a Proof of Conce
 - Handle both in-vectorstore and web-based information retrieval
 - Implement multi-agent verification to prevent hallucinations
 
+<!--
 ## Video Explanation
 The system features are explained in the following videos:
 - [Ingestion Pipeline - DEV](https://www.loom.com/share/678ee0ba342942ff876ac2c23ee426ba?sid=c6789ae1-e089-4551-9fc0-2515d25ffdc7)
 - [Retrieval DEV - part1](https://www.loom.com/share/7d36a1a9d4384781b7f821f00c8fbe4a?sid=7e58817b-0eab-4748-bf7d-ee91bc8a8585)
 - [Retrieval DEV - part2 and AWS Considerations](https://www.loom.com/share/2f660ad268894a17a85d571e6aa3b42a?sid=0aae8bcf-a4db-40f0-8f37-1289672d2ebe)
-
+-->
 ## Solution Design
 ### System Architecture
 ![RAG System Architecture](img/diagram_flow.png)
